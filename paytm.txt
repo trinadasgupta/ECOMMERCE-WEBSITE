@@ -1,0 +1,29 @@
+Test Merchant ID
+MLLQsG26898959154442
+
+Test Merchant Key
+ypJa4wcElqRnPj48
+
+Website
+WEBSTAGING
+
+Industry Type
+Retail
+Channel ID (For Website)
+WEB
+
+Channel ID (For Mobile Apps)
+WAP
+Transaction URL
+https://securegw-stage.paytm.in/order/process
+Transaction Status URL
+https://securegw-stage.paytm.in/order/status
+Production API Detai
+
+
+7777777777
+
+489871
+
+
+
